@@ -1,0 +1,244 @@
+*{padding:0px;
+margin:0px;
+    font-family:sans-serif;
+
+}
+
+
+
+
+
+
+.header{background-color:#3A5795;
+    height:90px;
+    width:100%;
+}
+
+
+.fb_text{ 
+   /*background-color: yellow;*/
+    padding: 20px 0px 0px 120px;
+    width:250px;
+    font-family:sans-serif;
+    font-size: 50px;
+    font:white; 
+    color:white;
+    font-style: bold;
+
+}
+
+.cbox{
+margin-top:0px;
+
+}
+
+.fpass{
+
+}
+
+.header_form{
+    float:right;
+    margin:-85px 225px 0px 0px;
+   /* background-color: purple;*/
+height:70px;
+width:300px;
+color:white;
+
+}
+
+.pass{float:right;
+margin:-55px 0px 0px 0px;
+    
+}
+.cbox{
+   font-size:15px; color:rgb(89,156,213);} 
+
+.pass a{font-size:15px; color:rgb(89,156,213);}
+
+.login_btn{
+
+background-color: #6282c4;
+
+height:25px;
+font-size:20px;
+color:white;
+float:right;
+margin:-70px 160px 0px 0px;
+border:0.5px solid #7aa1f2;
+padding:2px;
+
+}
+
+span a {
+    color: white;
+}
+
+
+
+.why a{text-decoration: none;
+color:#3A5795;
+font-size:15px;
+
+
+}
+
+.free{font-size:20px;}
+
+.all_content{
+height:750px;
+width:100%;
+    background-color:rgb(237,240,245);}
+
+.main_content{
+    width:600px;
+  /* background-color: aqua;*/
+    
+float:right;
+margin:30px -30px 0px 0px;}
+
+
+
+.policy a {
+text-decoration: none;
+color:#1c3467;
+font-size:15px;
+
+}
+
+.policy{font-size:11px;}
+
+.side_content{
+   /* background-color: aqua;*/
+    width:590px;
+    margin:100px 0px 0px 100px;
+    float:left;
+}
+
+
+
+.img{
+    width:100px;
+    
+    font-size: 17px;
+}
+
+
+
+
+.create{ 
+    border-top:2px  solid grey;
+    padding-top:20px;
+    
+    color:#1c3467;}
+
+.create a{color:#1c3467;
+        text-decoration: none;}
+
+.input_text{
+border-radius: 5px;
+border: 1px solid grey;
+    height: 40px;
+    width:250px;
+    
+}
+
+.more{ width:505px;}
+
+
+
+::-webkit-input-placeholder {
+   font-size:20px;
+    padding:0px 10px 30px 5px;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+     font-size:20px;
+     padding:0px 10px 20px 5px;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+     font-size:20px;
+     padding:0px 10px 20px 5px;
+}
+
+:-ms-input-placeholder {  
+     font-size:20px;
+     padding:0px 10px 20px 5px;
+}
+
+
+.select_input{
+font-size:20px;
+width:90px;
+height:40px;
+margin:-2px;
+
+}
+
+.signup{
+    background-color:#649B4F;
+    height:50px;
+    width:200px;
+    font-weight:bold;
+    color:white;
+    border-radius:5px;
+    border:1px solid #3B6E22;
+    font-size: 20px;
+}
+
+
+
+.footer{
+    
+    
+    clear:both;}
+
+.lan{
+    color:rgb(89,156,213);
+    margin:0px 0px 0px 100px;
+    width:80%;
+     
+}
+
+.nav{border-top:1px solid rgb(145, 174, 224);
+    height:50px;
+    width:90%;
+margin:0px 0px 0px 100px;}
+
+
+.demo{
+    color:grey;
+    margin-left:106px;
+font-size:15px;
+}
+
+
+.nav ol{ list-style-type:none;
+   float:left;
+    font-size:15px;
+    
+
+}
+
+.nav ol li{float:left;
+    padding:8px;
+    text-decoration: none;
+   
+}
+
+.nav ol li a{text-decoration: none;
+color:rgb(89,156,213);}
+
+.bri{font-size:20px;}
+
+
+
+
+
+
+
+
+
+
+
+
